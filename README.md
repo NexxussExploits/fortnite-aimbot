@@ -20,6 +20,10 @@ pip install opencv-python
 ```bash
 pip install pyautogui
 ```
+Now you should have Tkinter but if not then do this:
+```bash
+pip install tkinter as tk
+```
 ## Usage
 1. Run the script by executing the following command in the terminal or command prompt:
 ```bash
