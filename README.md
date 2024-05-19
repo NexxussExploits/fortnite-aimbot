@@ -20,6 +20,9 @@ pip install opencv-python
 ```bash
 pip install pyautogui
 ```
+```bash
+pip install threading
+```
 Now you should have Tkinter but if not then do this:
 ```bash
 pip install tkinter as tk
