@@ -17,6 +17,9 @@ pip install keyboard
 ```bash
 pip install opencv-python
 ```
+```bash
+pip install pyautogui
+```
 ## Usage
 1. Run the script by executing the following command in the terminal or command prompt:
 ```bash
