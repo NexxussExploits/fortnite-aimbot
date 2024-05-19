@@ -14,7 +14,9 @@ Nexploits is a Python script that allows users to assign a keyboard button to tr
 ```bash
 pip install keyboard
 ```
-
+```bash
+pip install opencv-python
+```
 ## Usage
 1. Run the script by executing the following command in the terminal or command prompt:
 ```bash
